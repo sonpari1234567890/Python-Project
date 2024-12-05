@@ -16,7 +16,7 @@ Screenshots:
 Add some screenshots here showing the interface and functionality of your application.
 Installation:
 1.	Clone the repository to your local machine:
-2.	git clone https://github.com/yourusername/library-management-system.git
+2.	git clone your project linked
 3.	Navigate to the project directory:
 4.	cd library-management-system
 5.	Install required dependencies: This project uses Python's built-in libraries, so no external packages are required for this setup.
